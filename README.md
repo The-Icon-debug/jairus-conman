@@ -1,1 +1,1 @@
-# jairus-conman
+This is the story of a conman by the name Jairus Martin Amoth. In his wake, he has left hundreds of innocent people in serious financial trouble. All this for a partying lifestyle, shisha and women!
