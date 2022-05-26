@@ -27,9 +27,18 @@ h3 {
     padding: 10px;
     border-radius: 50px;
     width: 1000px;
+    background-color: cyan;
 }
 
 img {
     height: 300px;
     width: auto;
+}
+
+div {
+    background-color: blue;
+    margin: 50px;
+    padding: 15px;
+    border: 15px solid red;
+    
 }
