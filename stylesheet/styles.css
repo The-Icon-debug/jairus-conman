@@ -35,10 +35,16 @@ img {
     width: auto;
 }
 
-div {
+.traits {
     background-color: blue;
     margin: 50px;
     padding: 15px;
     border: 15px solid red;
-    
+}
+
+.image1 {
+    margin: 50px;
+    border: 15px solid whitesmoke;
+    padding: 15px;
+    width: 300px;
 }
