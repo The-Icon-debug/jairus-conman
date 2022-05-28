@@ -6,11 +6,9 @@ body {
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow';
     margin: 50px;
-
-
 }
 h1 {
-    color:pink;
+    color: pink;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 70px;
     border: 20px solid whitesmoke ;
@@ -28,11 +26,16 @@ h3 {
     border-radius: 50px;
     width: 1000px;
     background-color: cyan;
+    clear: both;
 }
 
 img {
     height: 300px;
     width: auto;
+}
+
+div {
+    float: right;
 }
 
 .traits {
@@ -44,7 +47,15 @@ img {
 
 .image1 {
     margin: 50px;
-    border: 15px solid whitesmoke;
-    padding: 15px;
-    width: 300px;
+    width: 250px;
+}
+
+.image2 {
+    margin: 50px;
+    width: 100px;
+}
+
+.image3 {
+    margin: 50px 200px 50px 50px;
+    width: 100px;   
 }
